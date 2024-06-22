@@ -62,4 +62,4 @@ The evaluation data only consists of medical descriptions and questions also gen
 
 ### Methodology
 
-The data processing and fine-tuning process could be viewed in the jupyter notebook `main.py`
+The data processing and fine-tuning process could be viewed in the jupyter notebook `main.ipynb`
