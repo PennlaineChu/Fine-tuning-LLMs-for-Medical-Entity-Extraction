@@ -63,3 +63,7 @@ The evaluation data only consists of medical descriptions and questions also gen
 ### Methodology
 
 The data processing, fine-tuning process, and evaluation could be viewed in the jupyter notebook `main.ipynb`
+
+### Hardware
+
+The GPU used is "NVIDIA_A100_80GB x 8."
