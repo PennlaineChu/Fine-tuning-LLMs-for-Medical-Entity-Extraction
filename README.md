@@ -62,7 +62,8 @@ The evaluation data only consists of medical descriptions and questions also gen
 
 ### Methodology
 
-The data processing, fine-tuning process, code to run the model, and evaluation process could be viewed in the jupyter notebook `main.ipynb`
+The data processing, fine-tuning process, code to run the model, and evaluation process could be viewed in the jupyter notebook `main.ipynb`.
+
 Since the notebook primarily relies on the Hugging Face library, please note that your token should be granted access to the gated model. 
 To be granted access, please go to the Hugging Face page and click on the "Agree and access repository" button, your access would be automatically granted.
 
